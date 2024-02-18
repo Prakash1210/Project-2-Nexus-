@@ -1,0 +1,1 @@
+Welcome to the Nexus Company Clone Website project! This internship initiative aims to replicate the functionality and design of the Nexus Company website, providing a hands-on learning experience in web development and design. This README serves as a comprehensive guide to help you understand the project, set up your development environment, and contribute effectively.
